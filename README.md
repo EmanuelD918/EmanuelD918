@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente tentando ganhar nota.<br>👯 Procuro colaborar com Professor Guilherme (pela nota)<br>🤝 Pretendo ajudar ficando em silêncio e fazendo o que me pedem (mewing)<br>🌱 Estou aprendendo a mecher no Github<br>💬 Não me pergunte nada<br>⚡ Fun fact: Professor é RICO<br>Bye🤫🧏🏻‍♂️Bye
+🔭 Atualmente tentando ganhar nota.<br>👯 Procuro colaborar com Professor Guilherme (pela nota)<br>🤝 Pretendo ajudar ficando em silêncio e fazendo o que me pedem (mewing)<br>🌱 Estou aprendendo a mexer no Github<br>💬 Não me pergunte nada<br>⚡ Fun fact: Professor é RICO<br>Bye🤫🧏🏻‍♂️Bye
 
 
 # 💻 Tech Stack:
